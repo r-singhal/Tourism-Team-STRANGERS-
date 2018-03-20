@@ -1,0 +1,2 @@
+In this "jaipur.html" is the starting homepage, in this, an animated book opens when we put the cursor on the book. After book opens 4 links appear, select anyone you want and traverse the website by the drop-down button "discover" from the main menu.
+Select any one from "cities" or "tradition" button and go on.
